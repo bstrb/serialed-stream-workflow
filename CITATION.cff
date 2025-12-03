@@ -5,4 +5,8 @@ type: software
 authors:
   - family-names: "Blomberg"
     given-names: "Buster"
+  - family-names: "Calmanovici Pacoste"
+    given-names: "Laura"
+  - family-names: "Björkstén Fonjallaz"
+    given-names: "Alexis"
 license: MIT
