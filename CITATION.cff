@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "Blomberg"
     given-names: "Buster"
+    orcid: "https://orcid.org/0009-0001-5047-4576"
   - family-names: "Calmanovici Pacoste"
     given-names: "Laura"
   - family-names: "Björkstén Fonjallaz"
